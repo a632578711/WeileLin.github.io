@@ -1,6 +1,6 @@
 ---
 layout: essay 
-type: essay
+type: essay 
 title: About me paper
 date: 2018-08-29
 labels: 
