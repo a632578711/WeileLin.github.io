@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/3.png
+image: images/ 3.png
 title: Tree Planting Project
 date: 2016-02-15
 labels:
