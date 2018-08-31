@@ -31,6 +31,6 @@ labels:
      
      
      
-     For this world, everyone is a small existence. In my opinion, a person's contribution to society can transcend his existence. There are still many people in the world who need help, and they all have very difficult days. We should be happy that we live in a comfortable environment. In my future plans, I hope that I can use the knowledge I have learned to help people or animals in need. There are some people think that they can only live once, so they indulge their behavior, but they forgot that there is only one earth. 
+     For this world, everyone is a small existence. In my opinion, a person's contribution to society can transcend his existence. There are still many people in the world who need help, and they all have very difficult days. We should be happy that we live in a comfortable environment. In my future plans, I hope that I can use the knowledge I have learned to help people or animals in need. There are some people  think that they can only live once, so they indulge their behavior, but they forgot that there is only one earth. 
      
      
