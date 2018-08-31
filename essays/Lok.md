@@ -1,7 +1,6 @@
 ---
-layout: eassy 
-type: eassy
-image:
+layout: essay 
+type: essay
 title: About me paper
 date: 2018-08-29
 labels: 
