@@ -1,6 +1,6 @@
 ---
-layout: Essay
-type: Essay
+layout: essay
+type: essay
 images: images/Hw1.png
 title: Reflect on Coding Standards
 date: 2018-09-19
