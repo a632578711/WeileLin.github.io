@@ -4,7 +4,7 @@ type: Essay
 images: images/Hw1.png
 title: Reflect on Coding Standards
 date: 2018-09-19
-label:
+labels:
 - Code
 - IntelliJ IDEA
 ---
