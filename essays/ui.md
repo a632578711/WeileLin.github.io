@@ -27,3 +27,6 @@ So for me there is nothing more simple than copying and pasting.
 <img class="ui image" src = "../images/ui2.png"> 
 
  Semantic UI—The fully semantic front-end interface development framework is somewhat different from Bootstrap and Foundation. There are many differences in features, layout design, and user experience. For a while, I was a big fan of Zurb’s Foundation Framework, which has many features that other frameworks don't have, and it has a lot of pre-made templates. So using Zurb’s Foundation Framework to design it is relatively comfortable and fast. But the only thing is that some features have to wait until the new version of Foundation is released.
+ 
+
+In addition, the category names used by these features are closer to English than some casual strings; so using Semantic UI design will make you feel more natural. Therefore, learning how to use the Semantic UI and designing it with the Semantic UI is much more convenient.
